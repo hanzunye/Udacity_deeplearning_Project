@@ -1,5 +1,5 @@
 # Udacity_deeplearning_Project
-![Certificate](https://github.com/hanzunye/img-storage/blob/main/download.pdf)
+![Certificate](https://github.com/hanzunye/img-storage/blob/main/certificate.png)
 
 # Udacity-Deep-Learning-Nanodegree
 This repository's purpose in to document my projects submission to Udacity's [Deep Learning Nanodegree Program](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
